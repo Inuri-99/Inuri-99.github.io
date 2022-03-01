@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/Inuri-99/Inuri-99.github.io.git/static/css/main.4c8f5a95.chunk.css",
-    "main.js": "/Inuri-99/Inuri-99.github.io.git/static/js/main.6665a6f5.chunk.js",
-    "main.js.map": "/Inuri-99/Inuri-99.github.io.git/static/js/main.6665a6f5.chunk.js.map",
-    "runtime-main.js": "/Inuri-99/Inuri-99.github.io.git/static/js/runtime-main.de5a99cc.js",
-    "runtime-main.js.map": "/Inuri-99/Inuri-99.github.io.git/static/js/runtime-main.de5a99cc.js.map",
-    "static/css/2.14351861.chunk.css": "/Inuri-99/Inuri-99.github.io.git/static/css/2.14351861.chunk.css",
-    "static/js/2.c452ac08.chunk.js": "/Inuri-99/Inuri-99.github.io.git/static/js/2.c452ac08.chunk.js",
-    "static/js/2.c452ac08.chunk.js.map": "/Inuri-99/Inuri-99.github.io.git/static/js/2.c452ac08.chunk.js.map",
-    "index.html": "/Inuri-99/Inuri-99.github.io.git/index.html",
-    "precache-manifest.cdec199a2130cff610824c8216d462df.js": "/Inuri-99/Inuri-99.github.io.git/precache-manifest.cdec199a2130cff610824c8216d462df.js",
-    "service-worker.js": "/Inuri-99/Inuri-99.github.io.git/service-worker.js",
-    "static/css/2.14351861.chunk.css.map": "/Inuri-99/Inuri-99.github.io.git/static/css/2.14351861.chunk.css.map",
-    "static/css/main.4c8f5a95.chunk.css.map": "/Inuri-99/Inuri-99.github.io.git/static/css/main.4c8f5a95.chunk.css.map",
-    "static/js/2.c452ac08.chunk.js.LICENSE": "/Inuri-99/Inuri-99.github.io.git/static/js/2.c452ac08.chunk.js.LICENSE",
-    "static/media/Inuri.jpg": "/Inuri-99/Inuri-99.github.io.git/static/media/Inuri.e3c6aa57.jpg",
-    "static/media/Pencil.jpg": "/Inuri-99/Inuri-99.github.io.git/static/media/Pencil.38828042.jpg",
-    "static/media/intro.jpg": "/Inuri-99/Inuri-99.github.io.git/static/media/intro.b9c86d8d.jpg",
-    "static/media/laptop1.jpg": "/Inuri-99/Inuri-99.github.io.git/static/media/laptop1.87561258.jpg"
+    "main.css": "/static/css/main.4c8f5a95.chunk.css",
+    "main.js": "/static/js/main.f499b3d8.chunk.js",
+    "main.js.map": "/static/js/main.f499b3d8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.86e2ccf5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.86e2ccf5.js.map",
+    "static/css/2.14351861.chunk.css": "/static/css/2.14351861.chunk.css",
+    "static/js/2.c452ac08.chunk.js": "/static/js/2.c452ac08.chunk.js",
+    "static/js/2.c452ac08.chunk.js.map": "/static/js/2.c452ac08.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.fa5b146efcaf4c3918065049251484b8.js": "/precache-manifest.fa5b146efcaf4c3918065049251484b8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.14351861.chunk.css.map": "/static/css/2.14351861.chunk.css.map",
+    "static/css/main.4c8f5a95.chunk.css.map": "/static/css/main.4c8f5a95.chunk.css.map",
+    "static/js/2.c452ac08.chunk.js.LICENSE": "/static/js/2.c452ac08.chunk.js.LICENSE",
+    "static/media/Inuri.jpg": "/static/media/Inuri.e3c6aa57.jpg",
+    "static/media/Pencil.jpg": "/static/media/Pencil.38828042.jpg",
+    "static/media/intro.jpg": "/static/media/intro.b9c86d8d.jpg",
+    "static/media/laptop1.jpg": "/static/media/laptop1.87561258.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.de5a99cc.js",
+    "static/js/runtime-main.86e2ccf5.js",
     "static/css/2.14351861.chunk.css",
     "static/js/2.c452ac08.chunk.js",
     "static/css/main.4c8f5a95.chunk.css",
-    "static/js/main.6665a6f5.chunk.js"
+    "static/js/main.f499b3d8.chunk.js"
   ]
 }
